@@ -3,6 +3,7 @@ from watchdog.events import FileSystemEventHandler, FileSystemEvent
 from watchdog.observers import Observer
 from time import sleep
 
+# change the path based on your system
 src_dir = Path(r"C:\Users\sebastian\Downloads")
 
 # folder map for respective file extensions
