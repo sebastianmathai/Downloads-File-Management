@@ -4,7 +4,7 @@ This simple project offers a solution for organizing your cluttered "Download" f
 
 To automate this process, you can utilize the provided batch file named "automate.bat." 
 
-To execute the batch file without opening the Command Prompt window, a file named "RunScript.vbs" is included. You can automate the running of this program using "Windows Task Scheduler" based on your needs.
+To execute the batch file without showing up the Command Prompt window, a file named "RunScript.vbs" that conatins the batch file can be called. You can automate the running of this program (RunScript.vbs) by creating a basic task on "Windows Task Scheduler" based on your needs.
 
 However, if you're using an operating system other than Windows, you'll need to employ alternative methods to run the Python script.
 
